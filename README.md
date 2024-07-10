@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iván Chaine</h1>
 <h3 align="center">A passionate and resourceful frontend dev from México</h3>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NestJS and ASP.NET**
 
 - 💬 Ask me about **Tailwind, Angular and React**
 
