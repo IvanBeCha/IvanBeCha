@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Iván Bejarano</h1>
+<h1 align="center">Hi 👋, I'm Iván Chaine</h1>
 <h3 align="center">A passionate and resourceful frontend dev from México</h3>
 
-- 🌱 I’m currently learning **Angular, NestJS**
+- 🌱 I’m currently learning **NestJS**
 
-- 💬 Ask me about **Tailwind and React**
+- 💬 Ask me about **Tailwind, Angular and React**
 
 - 📫 How to reach me **ivanbch23@gmail.com**
 
